@@ -1,6 +1,6 @@
 # ENSF-612 Assignment 2
 
-An assignment preprocessing of text including tokenization, stop word removal, filtering noise, and then finding out unanswered question and suggesting related answered questions.
+An assignment on preprocessing of text including tokenization, stop word removal, filtering noise, and then finding out unanswered question and suggesting related answered questions.
 
 ## Folder Structure
 
